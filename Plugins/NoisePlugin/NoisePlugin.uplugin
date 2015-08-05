@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"FriendlyName": "NoisePlugin",
+	"Version": 1,
+	"VersionName": "0.1",
+	"EngineVersion": "4.8.0",
+	"CreatedBy": "Daniel 'Numsgil' Grondin",
+	"CreatedByURL": "",
+	"Category": "Programming",
+	"Description": "",
+	"EnabledByDefault": true,
+	"Modules": [
+		{
+			"Name": "NoisePlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		}
+	]
+}

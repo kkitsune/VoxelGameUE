@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.8",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "VoxelGameUE",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"Desktop",
+		"LinuxNoEditor",
+		"MacNoEditor",
+		"PS4",
+		"WindowsNoEditor",
+		"XboxOne"
+	]
+}
